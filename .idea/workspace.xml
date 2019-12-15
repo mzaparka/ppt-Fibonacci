@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbead629-f9c8-4a10-9cf4-63a863393da6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UiWiQbyoUeXgIL2zR2OngdOpqC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fibonancciho_posloupnost" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Fibonacciho_posloupnost" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fibonacciho_posloupnost" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fibonacciho_posloupnost.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Fibonacciho_posloupnost" />
+      <option name="MAIN_CLASS_NAME" value="Fibonacciho_posloupnost.Fibonacci_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci_Test.firstTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fibonacciho_posloupnost" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fibonacciho_posloupnost.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Fibonacciho_posloupnost.Fibonacci_Test" />
+      <option name="METHOD_NAME" value="firstTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci_Test.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fibonacciho_posloupnost" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Fibonacci_Test" />
+      <option name="METHOD_NAME" value="firstTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci_Test.secondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fibonacciho_posloupnost" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fibonacciho_posloupnost.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Fibonacciho_posloupnost.Fibonacci_Test" />
+      <option name="METHOD_NAME" value="secondTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="JUnit.Fibonacci_Test" />
+        <item itemvalue="JUnit.Fibonacci_Test.secondTest" />
+        <item itemvalue="JUnit.Fibonacci_Test.firstTest (1)" />
+        <item itemvalue="JUnit.Fibonacci_Test.firstTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbead629-f9c8-4a10-9cf4-63a863393da6" name="Default Changelist" comment="" />
+      <created>1575840022536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575840022536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1454" y="-103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575841513807">
+      <screen x="1360" y="-249" width="1280" height="984" />
+    </state>
+    <state x="1454" y="-103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728/1360.-249.1280.984@1360.-249.1280.984" timestamp="1575841513807" />
+    <state x="1730" y="18" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1575846078876">
+      <screen x="1360" y="-249" width="1280" height="984" />
+    </state>
+    <state x="1730" y="18" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1360.728/1360.-249.1280.984@1360.-249.1280.984" timestamp="1575846078876" />
+    <state x="1780" y="-3" key="FileChooserDialogImpl" timestamp="1575923270198">
+      <screen x="1360" y="-249" width="1280" height="984" />
+    </state>
+    <state x="1780" y="-3" key="FileChooserDialogImpl/0.0.1360.728/1360.-249.1280.984@1360.-249.1280.984" timestamp="1575923270198" />
+    <state width="1317" height="176" key="GridCell.Tab.0.bottom" timestamp="1576419161864">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="176" key="GridCell.Tab.0.bottom/0.0.1360.728/1360.-249.1280.984@0.0.1360.728" timestamp="1576419161864" />
+    <state width="1237" height="305" key="GridCell.Tab.0.bottom/0.0.1360.728/1360.-249.1280.984@1360.-249.1280.984" timestamp="1575931148748" />
+    <state width="1317" height="176" key="GridCell.Tab.0.center" timestamp="1576419161864">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="176" key="GridCell.Tab.0.center/0.0.1360.728/1360.-249.1280.984@0.0.1360.728" timestamp="1576419161864" />
+    <state width="1237" height="305" key="GridCell.Tab.0.center/0.0.1360.728/1360.-249.1280.984@1360.-249.1280.984" timestamp="1575931148748" />
+    <state width="1317" height="176" key="GridCell.Tab.0.left" timestamp="1576419161864">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="176" key="GridCell.Tab.0.left/0.0.1360.728/1360.-249.1280.984@0.0.1360.728" timestamp="1576419161864" />
+    <state width="1237" height="305" key="GridCell.Tab.0.left/0.0.1360.728/1360.-249.1280.984@1360.-249.1280.984" timestamp="1575931148748" />
+    <state width="1317" height="176" key="GridCell.Tab.0.right" timestamp="1576419161864">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="176" key="GridCell.Tab.0.right/0.0.1360.728/1360.-249.1280.984@0.0.1360.728" timestamp="1576419161864" />
+    <state width="1237" height="305" key="GridCell.Tab.0.right/0.0.1360.728/1360.-249.1280.984@1360.-249.1280.984" timestamp="1575931148748" />
+    <state x="1501" y="-115" key="SettingsEditor" timestamp="1575843427223">
+      <screen x="1360" y="-249" width="1280" height="984" />
+    </state>
+    <state x="1501" y="-115" key="SettingsEditor/0.0.1360.728/1360.-249.1280.984@1360.-249.1280.984" timestamp="1575843427223" />
+    <state x="1695" y="66" key="com.intellij.ide.util.TipDialog" timestamp="1575921167490">
+      <screen x="1360" y="-249" width="1280" height="984" />
+    </state>
+    <state x="1695" y="66" key="com.intellij.ide.util.TipDialog/0.0.1360.728/1360.-249.1280.984@1360.-249.1280.984" timestamp="1575921167490" />
+    <state x="1704" y="136" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575844247833">
+      <screen x="1360" y="-249" width="1280" height="984" />
+    </state>
+    <state x="1704" y="136" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1360.728/1360.-249.1280.984@1360.-249.1280.984" timestamp="1575844247833" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Fibonacciho_posloupnost$Fibonacci_Test.ic" NAME="Fibonacci_Test Coverage Results" MODIFIED="1575846788114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Fibonacciho_posloupnost.*</FILTER>
+    </SUITE>
+  </component>
+</project>
